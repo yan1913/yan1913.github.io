@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+## Yan Liao
 
-You can use the [editor on GitHub](https://github.com/yan1913/yan1913.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**PhoneNumber：** 07985571159　　　　　　　　　**Email：** liaoy19@uni.coventry.ac.uk　　　　　　　　　**StudentID：** 9947609
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GitHub Page：http://www.jianshu.com/u/xx 　　　　　　　　　　　　　　 
 
-### Markdown
+GitHub：https://github.com/xxxx    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+-----------------------
 
-- Bulleted
-- List
+### Education Experience
 
-1. Numbered
-2. List
+**2019 May. - 2019 Dec.**　　　　　　　    　　　 **APTECH**　　　　                   　　　　　**Professional Training**    
 
-**Bold** and _Italic_ and `Code` text
+Major：Programing　　　　　							Average Grade：86.6/100
 
-[Link](url) and ![Image](src)
-```
+**2020 Jan. - Now**　　　　　　　　　               　**Coventry University**　　　　　　　　　　　**Undergraduate**    
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Major：Computer Science　　　　　     			Grade：3.X　　　　　　　　　　					
 
-### Jekyll Themes
+------------------------
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yan1913/yan1913.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Professional Skill
 
-### Support or Contact
+* Database(MySQL, SQLite,JDBC, MyMyBatis)
+* JavaWEB(HTML,CSS, JavaScript )
+* Java
+* Python
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---------------------
+
+### Skill details
+
+* **Database(MySQL, SQLite,JDBC, MyBatis)**
+
+  **Description**
+
+  Knowledge of database, proficient in database management languages such as MySQL and SQLite(Add, delete, change, query).
+
+  **JDBC**(Java Database Connectivity):
+
+  Familiar with using Java to connect to the database and manage the database
+
+  **MyBatis**
+
+  Proficient in using MyBatis framework pairs, associating SQL statements through XML descriptions, and performing database management operations
+
+  
+
+  **Project**
+
+  ​	***MyBatis***
+
+  ​	Introduction：My first MyBatis project
+
+  ​	Contributor：Yan Liao
+
+  ​	GitHub:https://github.coventry.ac.uk/liaoy19/MyBatis
+
+  ​	***ChatBot***
+
+  ​	Introduction:The Chatbot project is a chat robot about fitness center. This robot can achieve some simple functions. Such as if you ask about something about the weather, the robot a can give you pictographic answers. You also can use the ChatBot help you to do some unique features, such as register a new account, login, or get some personal health suggestion.
+
+  ​	GitHub:https://github.coventry.ac.uk/liaoy19/chatBot
+
+  
+
+----------------------------------
+
